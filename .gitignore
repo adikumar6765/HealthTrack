@@ -1,0 +1,17 @@
+# node_modules
+node_modules/
+**/node_modules/
+
+# env files
+.env
+.env
+.env.*
+**/.env
+**/.env.*
+
+# logs
+npm-debug.log*
+
+# system files
+dist/
+build/
